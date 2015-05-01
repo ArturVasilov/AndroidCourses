@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClientServerWithVolleySample</string>
+
+    <string name="open">Open</string>
+    <string name="load">Load article</string>
+    <string name="vote">Vote</string>
+    <string name="comment_is_empty">Your comment is empty</string>
+</resources>

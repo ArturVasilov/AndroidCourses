@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArticlesManager</string>
+    <string name="docs">Learn more</string>
+    <string name="open_in_browser">Open in browser?</string>
+    <string name="cancel_res">Cancel</string>
+    <string name="ok_res">Ok</string>
+    <string name="all">All</string>
+    <string name="material_design">Material Design</string>
+    <string name="widgets">Widgets</string>
+    <string name="no_articles">Here is no articles</string>
+
+</resources>

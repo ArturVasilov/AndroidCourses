@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ru.guar73873.wearsample.WearableListItem
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center_vertical"
+    android:layout_width="match_parent"
+    android:layout_height="80dp">
+
+    <ImageView
+        android:id="@+id/circle"
+        android:layout_height="20dp"
+        android:layout_margin="16dp"
+        android:layout_width="20dp"
+        android:src="@drawable/circle_icon"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/name"
+        android:gravity="center_vertical|left"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_height="match_parent"
+        android:fontFamily="sans-serif-condensed-light"
+        android:lineSpacingExtra="-4sp"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="16sp"
+        tools:ignore="RtlHardcoded" />
+
+</ru.guar73873.wearsample.WearableListItem>
+
+

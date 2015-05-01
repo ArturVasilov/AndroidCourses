@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="earthquakes_downloaded_action">RU.KFU.IVMIIT.NPP.SAMPLES.EARTHQUAKES_DOWNLOADED</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClientServerBasicSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="load">Load article</string>
+</resources>

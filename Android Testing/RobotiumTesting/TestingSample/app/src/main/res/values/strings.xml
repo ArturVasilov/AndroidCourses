@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO list sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="time">time</string>
+    <string name="date">date</string>
+    <string name="description">Todo task</string>
+    <string name="no_todos">You have no todos now</string>
+</resources>
