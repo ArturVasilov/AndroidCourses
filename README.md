@@ -3,20 +3,20 @@ Samples for all my android courses.
 **There are no all courses finished!**
 
 ##List of the courses
-* [Java basics](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L21)
-* [Android basics](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L25)
-* [Android fundamentals](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L29)
-* [Material design](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L33)
-* [Client-server applications](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L37)
-* [Android concurrency](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L41)
-* [Android data](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L45)
-* [Kotlin](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L49)
-* [Android Wear](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L53)
-* [Game development](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L57)
-* [Android patterns](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L61)
-* [Android security](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L65)
-* [Android testing](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L69)
-* [Android functional reactive programming](https://github.com/ArturVasilov/AndroidCourses/blob/master/README.md#L73)
+* Java basics
+* Android basics
+* Android fundamentals
+* Material design
+* Client-server applications
+* Android concurrency
+* Android data
+* Kotlin
+* Android Wear
+* Game development
+* Android patterns
+* Android security
+* Android testing
+* Android functional reactive programming
 
 ###Java basics
 Android uses Java as programming language and we should now it. Here we consider not the real basics of Java, but the really necessary for Android things, such as OOP, anonymous inner clasess, event-oriented programming, reflection, annotations, etc.
